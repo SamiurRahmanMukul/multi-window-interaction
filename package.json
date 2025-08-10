@@ -15,7 +15,6 @@
     "multi-window",
     "state"
   ],
-  "author": "Achraf Laamoum",
   "license": "ISC",
   "dependencies": {
     "typescript": "^5.3.3"
