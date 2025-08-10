@@ -53,8 +53,8 @@ SharedWorker requires serving over HTTP(S). Do not open `index.html` from the fi
 
 ### Project structure
 
-```
-index.html                 # Canvas and script entry
+```path
+index.html                # Canvas and script entry
 src/
   main.ts                 # App entry; draws canvas + wiring
   worker.ts               # SharedWorker: tracks all windows, broadcasts sync
